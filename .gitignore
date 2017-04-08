@@ -1,0 +1,16 @@
+# Ignore file for use with Visual Studio 2013
+
+*.obj
+*.exe
+*.sln
+*.suo
+*.vcxproj
+*.vcxproj.filters
+ReadMe.txt
+*.ilk
+*.pdb
+*.log
+*.tlog
+*.lastbuildstate
+*.idb
+*.user
