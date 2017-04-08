@@ -4,13 +4,5 @@
 *.exe
 *.sln
 *.suo
-*.vcxproj
-*.vcxproj.filters
-ReadMe.txt
-*.ilk
-*.pdb
-*.log
-*.tlog
-*.lastbuildstate
-*.idb
-*.user
+**/Debug/*
+**/Release/*
