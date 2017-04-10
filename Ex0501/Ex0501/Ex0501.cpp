@@ -222,7 +222,7 @@ int main()
 	const int* const pDPW2 = &DAYS_PER_WEEK;
 	cout << "15. Have declared and initialized a constant pointer to a constant integer.\n"
 		<< "The value of the pointer is " << pDPW2 << endl
-		<< "The value of the constant to which it points is " << *pDPW
+		<< "The value of the constant to which it points is " << *pDPW2
 		<< endl << endl;
 	// Cannot do this, change the value to which the pointer points.
 	// *pDPW = 10;
