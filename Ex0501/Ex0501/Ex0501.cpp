@@ -225,7 +225,7 @@ int main()
 		<< "The value of the constant to which it points is " << *pDPW2
 		<< endl << endl;
 	// Cannot do this, change the value to which the pointer points.
-	// *pDPW = 10;
+	// *pDPW2 = 10;
 	// Also, cannot do this, change to point to another constant.
 	//pDPW2 = &WEEKS_PER_YEAR;
 	system("pause"); cout << endl;
