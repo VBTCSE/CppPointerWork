@@ -2,7 +2,5 @@
 
 *.obj
 *.exe
-*.sln
-*.suo
 **/Debug/*
 **/Release/*
